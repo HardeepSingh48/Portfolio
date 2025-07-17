@@ -3,7 +3,7 @@
   "name": "masterPortfolio",
   "icons": [
   {
-   "src": "\/icons\/android-icon-36x36.png",
+   "src": "/icons/logo192.png",
    "sizes": "36x36",
    "type": "image\/png",
    "density": "0.75"
