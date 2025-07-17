@@ -340,7 +340,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "hardeep_singh.png",
     description:
       "Feel free to reach out for collaboration, freelance projects, or just a tech discussion. I specialize in Full Stack Development using React, Next.js, Django, and Node.js. I typically respond within 24 hours.",
   },
